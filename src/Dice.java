@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Tanya Kalianda
+ * Dice
+ */
 public class Dice 
 {
 	private int numRolls;

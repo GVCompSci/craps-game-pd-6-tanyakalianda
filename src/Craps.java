@@ -18,7 +18,7 @@ public class Craps
 		in.nextLine();
 		
 		boolean playAgain = true;
-		while(playAgain)
+		while (playAgain)
 		{
 			int roll1 = dice1.roll();
 			int roll2 = dice2.roll();
